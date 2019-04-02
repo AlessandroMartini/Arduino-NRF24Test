@@ -5,6 +5,7 @@ Simple receiver to display how many packets per second are being received
 and how many packets are transmited per second on LCD.
 
 nRF24L01 connections 
+
  1 - GND
  
  2 - VCC 3.3V !!! Ideally 3.0v, definitely not 5V
